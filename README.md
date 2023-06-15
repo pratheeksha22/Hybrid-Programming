@@ -9,4 +9,5 @@ In this project, I have implemented the mergesort algorithm using OpenMP and MPI
 <h3> Results </h3>
 The hybrid model starts to perform better as the input size and the no of core counts increases.
 
+
  <img width="899" alt="Screen Shot 2023-06-15 at 4 06 55 PM" src="https://github.com/pratheeksha22/Hybrid-Programming/assets/51379668/75257440-cdb0-4006-b882-38b7ae966fbc">
